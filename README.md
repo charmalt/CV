@@ -1,4 +1,4 @@
-## Your Name
+## Charlene Chetcuti
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -23,22 +23,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April 2018 to July 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+A 16-week intensive development bootcamp, with focus on:
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Pair-programming
+- Test Driven Development
+- Object Oriented Design
+- Agile
 
-#### Your University / College (start_date to end_date)
+#### University of Malta (October 2011 to October 2015)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- B.Eng(Hons) in Electrical and Electronic Engineering, 2.1
 
 #### Any other qualifications
 
