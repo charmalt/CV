@@ -1,25 +1,16 @@
 ## Charlene Chetcuti
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a software engineer in training, having just joined Maker's Academy for a 16 week programming bootcamp.
 
 ## Skills
 
-#### This Skill
+#### Problem Solving
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Throughout my engineering degree and my experience at work, I have been challenged with several problems which I always try to tackle logically and enthusiastically.    
 
-- Experience
-- Achievements
-- Evidence
+#### Team Work
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I have had several opportunities to work in teams both during university and at work  - I enjoy collaborating and working with others, as I feel it promotes learning and development of new ideas.
 
 ## Education
 
@@ -35,12 +26,3 @@ A 16-week intensive development bootcamp, with focus on:
 #### University of Malta (October 2011 to October 2015)
 
 - B.Eng(Hons) in Electrical and Electronic Engineering, 2.1
-
-#### Any other qualifications
-
-## Experience
-
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
